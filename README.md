@@ -2,3 +2,5 @@
 testing....
 
 This repo is gonna go through lots of checks!
+
+First check to fetch locally
